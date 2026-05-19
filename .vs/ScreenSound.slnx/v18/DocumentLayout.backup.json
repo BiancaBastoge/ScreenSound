@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bianc\\source\\repos\\ScreenSound\\",
+  "WorkspaceRootPath": "C:\\Git\\ScreenSound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D127C882-3094-4B59-B303-FBA890865B93}|ScreenSound\\ScreenSound.csproj|c:\\users\\bianc\\source\\repos\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D127C882-3094-4B59-B303-FBA890865B93}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|c:\\git\\screensound\\screensound\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|c:\\git\\screensound\\screensound\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|c:\\git\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|c:\\git\\screensound\\screensound\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|c:\\git\\screensound\\screensound\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|c:\\git\\screensound\\screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|c:\\git\\screensound\\screensound\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\band.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|c:\\git\\screensound\\screensound\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3618DB79-046A-A011-E335-758B48281100}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bianc\\source\\repos\\ScreenSound\\ScreenSound\\Program.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
-              "ToolTip": "C:\\Users\\bianc\\source\\repos\\ScreenSound\\ScreenSound\\Program.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T23:44:15.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Episode.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\ScreenSound\\Episode.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Episode.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\ScreenSound\\Episode.cs",
+              "RelativeToolTip": "ScreenSound\\Episode.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:50:28.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Podcast.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\ScreenSound\\Podcast.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Podcast.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\ScreenSound\\Podcast.cs",
+              "RelativeToolTip": "ScreenSound\\Podcast.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:50:15.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\ScreenSound\\Music.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Music.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\ScreenSound\\Music.cs",
+              "RelativeToolTip": "ScreenSound\\Music.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T00:02:43.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\ScreenSound\\Guest.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Guest.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\ScreenSound\\Guest.cs",
+              "RelativeToolTip": "ScreenSound\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:58:53.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\ScreenSound\\Album.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Album.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\ScreenSound\\Album.cs",
+              "RelativeToolTip": "ScreenSound\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T02:22:44.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Band.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\ScreenSound\\Band.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Band.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\ScreenSound\\Band.cs",
+              "RelativeToolTip": "ScreenSound\\Band.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:05:24.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Git\\ScreenSound\\ScreenSound\\Genre.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Genre.cs",
+              "ToolTip": "C:\\Git\\ScreenSound\\ScreenSound\\Genre.cs",
+              "RelativeToolTip": "ScreenSound\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T02:55:41.641Z",
               "EditorCaption": ""
             }
           ]
